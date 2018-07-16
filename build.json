@@ -1,0 +1,12 @@
+{
+	"id": "miniature_io",
+	"version": "1.0",
+	"description": " Convert anything online into a picture",
+	"categories": [
+		"image",
+		"thumbnail",
+		"website"
+	],
+	"compatible_from": "2018.3",
+	"dependencies" : []
+}

@@ -1,0 +1,11 @@
+{
+	"version": "1.0",
+	"source": "extend",
+	"embed": false,
+	"shy": false,
+	"main_class": "MiniatureIoController",
+	"controllers": 
+	{
+		"MiniatureIoController": "controllers/MiniatureIoController.php"
+	}
+}
