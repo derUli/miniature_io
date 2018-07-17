@@ -10,7 +10,7 @@ This module provides a shortcode for embedding website thumbnails poweredy Minia
 
 The developer of this module isn't associated with the service provider of Miniature.io.
 If you need support open an issue on GitHub.
-Don't contact the service provider of Miniature.io
+Don't contact the service provider of Miniature.io.
 
 ### Example Code
 
