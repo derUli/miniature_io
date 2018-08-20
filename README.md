@@ -4,7 +4,7 @@
 
 Miniature.io is a cloud API for converting website urls to pictures.
 
-This module provides a shortcode for embedding website thumbnails poweredy Miniature.io into an UliCMS based website project.
+This module provides a shortcode for embedding website thumbnails powered by Miniature.io into an UliCMS based website project.
 
 **Please note:**
 
